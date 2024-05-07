@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|c:\\users\\amira\\downloads\\react-crud-with-asp.net-core-web-api-master\\react-crud-with-asp.net-core-web-api-master\\webapi2\\webapi2\\models\\demployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\models\\demployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|c:\\users\\amira\\downloads\\react-crud-with-asp.net-core-web-api-master\\react-crud-with-asp.net-core-web-api-master\\webapi2\\webapi2\\controllers\\demployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\controllers\\demployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|c:\\users\\amira\\downloads\\react-crud-with-asp.net-core-web-api-master\\react-crud-with-asp.net-core-web-api-master\\webapi2\\webapi2\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|c:\\users\\amira\\downloads\\react-crud-with-asp.net-core-web-api-master\\react-crud-with-asp.net-core-web-api-master\\webapi2\\webapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|c:\\users\\amira\\downloads\\react-crud-with-asp.net-core-web-api-master\\react-crud-with-asp.net-core-web-api-master\\webapi2\\webapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|c:\\users\\amira\\downloads\\react-crud-with-asp.net-core-web-api-master\\react-crud-with-asp.net-core-web-api-master\\webapi2\\webapi2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\WebAPI\\Models\\DonationDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\Models\\DCandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|c:\\users\\amira\\downloads\\react-crud-with-asp.net-core-web-api-master\\react-crud-with-asp.net-core-web-api-master\\webapi2\\webapi2\\migrations\\20240507054007_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D723FC-2791-42FA-8C76-D2F7B4C2D719}|WebAPI2\\WebAPI2.csproj|solutionrelative:webapi2\\migrations\\20240507054007_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DEmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Controllers\\DEmployeesController.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Controllers\\DEmployeesController.cs",
+              "ToolTip": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Controllers\\DEmployeesController.cs",
+              "RelativeToolTip": "WebAPI2\\Controllers\\DEmployeesController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:45:25.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240507054007_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Migrations\\20240507054007_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Migrations\\20240507054007_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Migrations\\20240507054007_InitialCreate.cs",
+              "RelativeToolTip": "WebAPI2\\Migrations\\20240507054007_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:40:07.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Startup.cs",
+              "ToolTip": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Startup.cs",
+              "RelativeToolTip": "WebAPI2\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:38:46.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI2\\appsettings.json",
+              "ToolTip": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\appsettings.json",
+              "RelativeToolTip": "WebAPI2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T05:33:14.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Models\\DEmployee.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Models\\DEmployee.cs",
+              "ToolTip": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Models\\DEmployee.cs",
+              "RelativeToolTip": "WebAPI2\\Models\\DEmployee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:25:46.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Models\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "WebAPI2\\Models\\EmployeeDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:27:21.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI2\\Program.cs",
+              "ToolTip": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI2\\WebAPI2\\Program.cs",
+              "RelativeToolTip": "WebAPI2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:32:09.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T05:33:22.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:32:18.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DCandidate.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\Models\\DCandidate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\WebApplication1\\WebApplication1\\Models\\DCandidate.cs",
+              "ToolTip": "C:\\Users\\amira\\source\\repos\\WebApplication1\\WebApplication1\\Models\\DCandidate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\WebApplication1\\WebApplication1\\Models\\DCandidate.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:28:39.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\WebAPI\\Models\\DonationDBContext.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI\\WebAPI\\Models\\DonationDBContext.cs",
+              "ToolTip": "C:\\Users\\amira\\Downloads\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\WebAPI\\Models\\DonationDBContext.cs",
+              "RelativeToolTip": "..\\WebAPI\\WebAPI\\Models\\DonationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:26:58.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
